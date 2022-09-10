@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/claudiobmontenegro"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
-  </a>
-    <a href="https://github.com/Jarlez"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
+  <a href="https://github.com/Jarlez"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
   </a>
 </p>
 <br>
