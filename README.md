@@ -9,6 +9,4 @@
 <br>
 <p align="center">  
   <a href="https://github.com/claudiobmontenegro"><img src="https://github-readme-stats.vercel.app/api?username=claudiobmontenegro&hide=prs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="claudiobmontenegro"/></a>
-<br>
-<p align="center">  
   <a href="https://github.com/Jarlez"><img src="https://github-readme-stats.vercel.app/api?username=Jarlez&hide=prs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jarlez"/></a>
